@@ -1,0 +1,32 @@
+[PROJECT]
+Target=main.hex
+Development_Mode=
+Processor_Text=PIC16F877A
+ToolSuite=CCS
+Processor=0x877A
+CCSVersion=5.008
+Compiler=PCM
+[main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Opened Files]
+1=main.c
+2=
+3=
+[Target Data]
+FileList=main.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Users\Krishh\Downloads\Compressed\lumian version 2.0_2\lumian version 2.0\lumian V2.0 CODE\;C:\Users\Krishh\Downloads\Compressed\lumian version 2.0_2\lumian version 2.0\lumian V2.0 CODE\C:\Program Files (x86)\PICC\Devices\
+[main.c]
+Type=4
+[Units]
+Count=1
+1=main (main)

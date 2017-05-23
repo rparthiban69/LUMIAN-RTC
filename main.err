@@ -1,0 +1,13 @@
+*** Error 18 "main.c" Line 1(9,20): File can not be opened
+    Not in "C:\Program Files (x86)\PICC\Devices\16f877a.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\16f877a.h"
+    Not in "C:\Users\Krishh\Downloads\Compressed\lumian version 2.0_2\lumian version 2.0\lumian V2.0 CODE\16f877a.h"
+    Not in "C:\Users\Krishh\Downloads\Compressed\lumian version 2.0_2\lumian version 2.0\lumian V2.0 CODE\C:\Program Files (x86)\PICC\Devices\16f877a.h"
+    Not in project "C:\Users\Admin\Downloads\lumian V2.0 CODE\16f877a.h"
+    Not in local "D:\study\lumian v2\16f877a.h"
+*** Error 128 "main.c" Line 2(7,64): A #DEVICE required before this line
+*** Error 100 "C:\Users\Admin\Downloads\lumian V2.0 CODE\ds1307.c" Line 7(5,43): USE parameter value is out of range   Not a number: PIN_C4
+*** Error 128 "C:\Users\Admin\Downloads\lumian V2.0 CODE\ds1307.c" Line 7(5,8): A #DEVICE required before this line
+*** Error 48 "C:\Users\Admin\Downloads\lumian V2.0 CODE\ds1307.c" Line 8(1,5): Expecting a (
+      5 Errors,  0 Warnings.
+Build Failed.

@@ -1,0 +1,8 @@
+D G "__PCM__" 0 0 ""5.008""
+D G "__DEVICE__" 0 0 ""
+D G "__DATE__" 0 0 ""07-Jan-15""
+D G "__TIME__" 0 0 ""11:26:51"" "************************************WORKING PROGRAM**************************************"
+D G "RTC_SDA" 1 4 "PIN_C4"
+D G "RTC_SCL" 1 5 "PIN_C3"
+F B "delay_ms" 1 0
+F B "delay_us" 1 0
