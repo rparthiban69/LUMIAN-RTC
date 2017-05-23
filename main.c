@@ -141,7 +141,7 @@ void main()
                relay=1;
                led=1;
             }
-            if(hr>=21 && min>=30 )
+            if(hr>=21 && min>=20 )
             {
                relay=0;
                led=0;
